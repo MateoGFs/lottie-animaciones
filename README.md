@@ -3,7 +3,7 @@
 Proyecto desarrollado para la exposición sobre animaciones Lottie en Flutter.
 
 ## Integrantes
-- Emerson Steven Imbajoa Imbajoa - 222034049
+- Emerson Steven Imbajoa Imbajoa - 222034043
 - Cristian Mateo Rodríguez Solarte - 222034049
 
 ## 📱 Descripción
