@@ -1,6 +1,10 @@
-# Lottie Flutter Demo 🤖
+# Lottie Flutter Demo 🤖 (tema 11)
 
 Proyecto desarrollado para la exposición sobre animaciones Lottie en Flutter.
+
+## Integrantes
+Emerson Steven Imbajoa Imbajoa - 222034049
+Cristian Mateo Rodríguez Solarte - 222034049
 
 ## 📱 Descripción
 
@@ -10,9 +14,9 @@ La aplicación simula visualmente el procesamiento de información mediante IA u
 
 > Lottie se utiliza como componente visual para representar el proceso. La animación no realiza procesamiento de inteligencia artificial.
 
-## 🚀 Funcionalidades
+## 🚀 Funcionalidades 
 
-- Reproducción de animaciones Lottie.
+- Reproducción de animaciones Lottie. 
 - Pausar la animación.
 - Reiniciar la animación.
 - Reproducción en loop.
